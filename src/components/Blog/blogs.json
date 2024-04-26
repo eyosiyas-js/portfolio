@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "category": "Technology",
+    "title": "Blockchain Decoded: Unraveling the Revolutionary Technology",
+    "abstract": "Dive into the world of blockchain technology as we decode its revolutionary potential. This blog explores the fundamentals of blockchain and how does it work",
+    "readTime": "15 min read time",
+    "path": "blockchain"
+  },
+  {
+    "id": 2,
+    "category": "Technology",
+    "title": "The Power of Anonymity: Unraveling the Tor Network",
+    "abstract": "Gain a comprehensive understanding of its architecture, protocols, and the principles that make it a vital tool for preserving privacy in a digital world",
+    "readTime": "15 min read time",
+    "path": "tor"
+  },
+  {
+    "id": 3,
+    "category": "OpenSource",
+    "title": "Understanding open source licenses",
+    "abstract": "Gain a comprehensive understanding of commonly used open source licenses , including their freedom and their restrictions ",
+    "readTime": "5 min read time",
+    "path": "opensorce-licenses"
+  },
+  {
+    "id": 3,
+    "category": "Technology",
+    "title": "Tauri: The Future Desktop App framework",
+    "abstract": "meet Tauri, a framework that revolutionized Desktop Application Development, This blog explores the basics of Tauri, delving into what powers it, how it operates, and how you can play around with it.  ",
+    "readTime": "5 min read time",
+    "path": "intro-to-tauri"
+  }
+]
